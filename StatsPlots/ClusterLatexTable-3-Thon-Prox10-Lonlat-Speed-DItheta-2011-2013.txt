@@ -1,0 +1,17 @@
+% latex table generated in R 3.4.4 by xtable 1.8-3 package
+% Wed Dec 19 23:33:41 2018
+\begin{table}[ht]
+\centering
+\begin{tabular}{rrrrr}
+  \hline
+ & Total & Cluster-1 & Cluster-2 & Cluster-3 \\ 
+  \hline
+Vessels & 15.00 & 15.00 & 15.00 & 15.00 \\ 
+  Couples & 97.00 & 68.00 & 96.00 & 90.00 \\ 
+  Dyads & 1523.00 & 149.00 & 954.00 & 420.00 \\ 
+  Dyads.Perc & 100.00 & 9.78 & 62.64 & 27.58 \\ 
+  Duration & 357.00 & 310.00 & 424.00 & 256.00 \\ 
+  MJM & 0.50 & 0.72 & 0.53 & 0.34 \\ 
+   \hline
+\end{tabular}
+\end{table}

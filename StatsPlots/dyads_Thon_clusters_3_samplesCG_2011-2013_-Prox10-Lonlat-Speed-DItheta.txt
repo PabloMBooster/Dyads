@@ -1,0 +1,18 @@
+Cluster  1 
+
+
+Segment from  2013-06-06 13:00:00  to  2013-06-12 03:00:00 ( 134  hours) 
+
+Vessel 1:  BELOUVE 
+Trip code:  127 
+Departure time:  2013-06-06 12:38:00 
+Departure port:  victoria 
+Arrival time:  2013-07-05 04:38:00 
+Arrival port:  maurice 
+
+Vessel 2:  TORRE GIULIA 
+Trip code:  88 
+Departure time:  2013-05-23 12:20:00 
+Departure port:  victoria 
+Arrival time:  2013-06-12 03:20:00 
+Arrival port:  victoria 
